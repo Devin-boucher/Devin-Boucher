@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hey, there I am a coder 👋</h1>
 
 <h2>Programming Languages</h2>
 <p>
